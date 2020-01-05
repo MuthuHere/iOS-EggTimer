@@ -5,7 +5,7 @@ Simply tried to develope an iOS app
 
 The timer will give you an alert once it is boiled. 
 
-There is three types of eggs 
+There are three types of eggs we have!
 ## 1. Soft
 ## 2. Medium and
 ## 3. Hard.
