@@ -1,7 +1,3 @@
-Thanks for giving good basement for beginner.  
-
-Simply tried to develope an iOS app 
-
 
 The timer will give you an alert once it is boiled. 
 
